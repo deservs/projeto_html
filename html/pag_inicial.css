@@ -5,6 +5,9 @@
     color: white;
     text-decoration: none;
 }
+.topbar .menu a:hover{
+    color: aqua;
+}
 .img a{
     color: black;
     text-decoration: none;
